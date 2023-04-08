@@ -1,6 +1,6 @@
 # PERKULIAHAN ALGORITMA
 
-## PENGENALAN KODINGAN
-## TIPE DATA
-## CONTROL STATEMENT
-## SEARCH ALGORITHM
+## Pengenalan Kodingan
+## Tipe Data
+## Control Statement
+## Search Algorithm
